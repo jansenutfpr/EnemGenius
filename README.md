@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/taiaraujo/EnemGenius/blob/main/img/logoFundoBranco.jpeg" alt="EnemGenius Logo" width="150"> 
+  <img src="https://github.com/taiaraujo/EnemGenius/blob/main/img/logo-eg-final.png" alt="EnemGenius Logo" width="150"> 
   <h3 align="center">EnemGenius</h3>
   <h3 align="center">Preparação Inteligente e Divertida para o Enem! 🧞‍♂️📚</h3>
 </p>
