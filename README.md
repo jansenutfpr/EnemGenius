@@ -4,7 +4,7 @@
 
 <p align="center">
   Planejamento, dicas e macetes para o Enem? <b>Temos!</b> Sistema de Multi Agentes Expecialistas em todas as Áreas? <b>Temos também!</b> 
-    O EnemGenius é seu companheiro de jornada rumo ao sucesso acadêmico. 🎯
+  <b> EnemGenius é seu companheiro de jornada rumo ao sucesso acadêmico. 🎯</b>
 </p>
 
 <p align="center">
@@ -12,31 +12,35 @@
   <a href="caminho/para/o/seu/prototipo.ipynb"><strong>Protótipo (Google Colab)</strong></a> ·
   <a href="caminho/para/o/seu/codigo/local"><strong>Código Local (Download)</strong></a> </p>
 
-## O Que É o EnemGenius? 🧠💡
+----
 
-O EnemGenius é uma plataforma de estudo abrangente e personalizada que utiliza a IA do Gemini para criar um ambiente de aprendizado interativo, acessível e eficaz.💪
+### O Que É o EnemGenius? 🧠💡
 
-## Por Que Criamos o EnemGenius? 🤔
+O EnemGenius é um projeto incrível feito pra ajudar estudantes do ensino médio a se prepararem para o ENEM com a ajuda de professores inteligentes, divertidos e especialistas — todos powered by inteligência artificial! 🤖📘
+
+### Por Que Criamos o EnemGenius? 🤔
 
 Este projeto nasceu da Imersão Alura! 🧑‍💻👩‍💻 A ideia é criar algo que realmente fizesse a diferença na vida dos estudantes, tornando a preparação para o Enem mais organizada e menos estressante. Pois estamos falando de uma longa jornada, e o EnemGenius está aqui para ser seu guia! 🗺️
 
-## O Problema Que Resolvemos 🎯
+### O Problema Que Resolvemos 🎯
 
-Preparar para o Enem é um desafio ENORME!  Muitos estudantes se sentem perdidos com a quantidade de conteúdo, a falta de organização e o estresse da prova.  O EnemGenius veio para:
+Preparar para o Enem é um desafio ENORME!  Muitos estudantes se sentem perdidos com a quantidade de conteúdo, a falta de organização e o estresse da prova. O EnemGenius veio para:
 
 * **Organizar seus estudos:** Cronogramas personalizados e planos de estudo que cabem na sua rotina. 📅
 * **Dar aquele empurrãozinho:** Dicas, macetes e motivação para você não desanimar. 🚀
 * **Simplificar o complexo:** Conteúdo didático e fácil de entender, sem enrolação. 🤓
 
-## Como o EnemGenius Funciona? ⚙️
+### Como o EnemGenius Funciona? ⚙️
 
-Nosso sistema é como um gênio da lâmpada, mas em vez de desejos, ele realiza seus sonhos de aprovação! 🧞‍♀️✨
+Você poderá interagir com o EnemGenius pelo front-end do projeto. Ele é uma tela onde solicita que você forneça informações sobre a disciplina e o tema que você deseja estudar.! 🧞‍♀️✨
 
-1.  **Você nos conta suas necessidades:** Seu tempo disponível, suas dificuldades, seus objetivos...
-2.  **O gênio entra em ação:** Com a magia da tecnologia (e muito código!), criamos um plano de estudos personalizado, selecionamos as melhores dicas e te damos aquele gás motivacional.
-3.  **Você arrasa no Enem:** Com tudo organizado e o conteúdo na ponta da língua, a aprovação é só questão de tempo! 🥳
+1.  **Informe a disciplina:** O campo não é obrigatório, mas ajuda os nossos agentes nas buscas de suas respostas.
+2.  **Informe o tema:** Aqui você pode enviar um tema amplo como `era vargas`, uma pergunta, um tema bem especifico, ou não enviar nada. Os agentes vão sempre buscar a melhor resposta em todos os cenários. **MAS ATENÇÃO** quando mais específico o tema melhor a resposta.  
+4.  **Resposta do Enem Genius:** Ela sempre vem bem estrutura, com uma introdução, um explicação detalhada, sugestão de cronograma de estudos, dicas macetes e link! Todo o arcenal para você ficar prepardo(a) 🥳
 
-![Fluxo do EnemGenius](/caminho/para/o/seu/fluxograma.png) ## Nossas Ferramentas 🛠️
+----
+
+### O EnemGenius e suas versões 🛠️
 
 * **Protótipo no Google Colab:** Foi aqui que tudo começou!  Nosso laboratório de ideias e testes. 🧪
     <a href="caminho/para/o/seu/prototipo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
