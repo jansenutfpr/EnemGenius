@@ -1,5 +1,4 @@
 import streamlit as st
-from script3 import enem_genius_cli
 from enem_genius_script import enem_assistant_cli
 
 # Interface Streamlit
