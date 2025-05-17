@@ -10,6 +10,8 @@ disciplina = st.text_input("📘 Disciplina :")
 tema = st.text_input("🧩 Tema : ")
 
 if st.button("Perguntar"):
+    disciplina = disciplina if disciplina else None
+    tema = tema if tema else None
     resposta = enem_assistant_cli(disciplina=disciplina, tema=tema)
     st.markdown("### 📚 Resposta do EnemGenius")
     st.markdown(resposta)
