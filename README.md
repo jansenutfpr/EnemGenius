@@ -12,19 +12,19 @@
 
 <p align="center">
   <a href="https://taia-araujo.gitbook.io/enemgenius/">
-    <img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o%20Completa-blue?style=for-the-badge" alt="Documentação (GitBook)">
+    <img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o%20(GitBook)-blue?style=for-the-badge" alt="Documentação (GitBook)">
   </a>
   &nbsp;
   <a href="https://enemgenius-uwavzs9ha5zvg46teys76y.streamlit.app/">
     <img src="https://img.shields.io/badge/Acesse%20o%20App%20Online-success?style=for-the-badge" alt="Acesse o App Online">
   </a>
   &nbsp;
-  <a href="caminho/para/o/seu/prototipo.ipynb">
+  <a href="https://colab.research.google.com/github/taiaraujo/EnemGenius/blob/main/prototipo/EnemGenius_Prototipo.ipynb">
     <img src="https://img.shields.io/badge/Prot%C3%B3tipo%20(Google%20Colab)-orange?style=for-the-badge" alt="Protótipo (Google Colab)">
   </a>
   &nbsp;
   <a href="https://taia-araujo.gitbook.io/enemgenius/parte-tecnica/manual-do-usuario">
-    <img src="https://img.shields.io/badge/C%C3%B3digo%20Local%20(Passo%20a%20passo)-brightgreen?style=for-the-badge" alt="Rodar Local (Passo a passo)">
+    <img src="https://img.shields.io/badge/Rodar%20Local%20(Passo%20a%20passo)-brightgreen?style=for-the-badge" alt="Rodar Local (Passo a passo)">
   </a>
 </p>
 
